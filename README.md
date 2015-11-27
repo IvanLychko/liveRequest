@@ -1,4 +1,4 @@
 # liveRequest
-Kohana modules NodeJS+PHP long pulling
+Kohana modules NodeJS+PHP long polling
 
 
